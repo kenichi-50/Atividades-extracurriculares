@@ -1,0 +1,30 @@
+[2025-07-10 20:13:23] DEBUG in 3027603178.py -> main(): Este es un mensaje DEBUG
+[2025-07-10 20:13:23] INFO in 3027603178.py -> main(): Este es un mensaje INFO
+[2025-07-10 20:13:23] WARNING in 3027603178.py -> main(): Este es un mensaje WARNING
+[2025-07-10 20:13:23] ERROR in 3027603178.py -> main(): Este es un mensaje ERROR - ser· enviado a Telegram
+[2025-07-10 20:13:24] CRITICAL in 3027603178.py -> main(): Este es un mensaje CRITICAL - tambiÈn ser· enviado a Telegram
+[2025-07-10 20:13:48] DEBUG in 3027603178.py -> main(): Este es un mensaje DEBUG
+[2025-07-10 20:13:48] DEBUG in 3027603178.py -> main(): Este es un mensaje DEBUG
+[2025-07-10 20:13:48] INFO in 3027603178.py -> main(): Este es un mensaje INFO
+[2025-07-10 20:13:48] INFO in 3027603178.py -> main(): Este es un mensaje INFO
+[2025-07-10 20:13:48] WARNING in 3027603178.py -> main(): Este es un mensaje WARNING
+[2025-07-10 20:13:48] WARNING in 3027603178.py -> main(): Este es un mensaje WARNING
+[2025-07-10 20:13:48] ERROR in 3027603178.py -> main(): Este es un mensaje ERROR - ser· enviado a Telegram
+[2025-07-10 20:13:48] ERROR in 3027603178.py -> main(): Este es un mensaje ERROR - ser· enviado a Telegram
+[2025-07-10 20:13:49] CRITICAL in 3027603178.py -> main(): Este es un mensaje CRITICAL - tambiÈn ser· enviado a Telegram
+[2025-07-10 20:13:49] CRITICAL in 3027603178.py -> main(): Este es un mensaje CRITICAL - tambiÈn ser· enviado a Telegram
+[2025-07-10 20:56:30] DEBUG in 587725574.py -> main(): Este es un mensaje DEBUG
+[2025-07-10 20:56:30] INFO in 587725574.py -> main(): Este es un mensaje INFO
+[2025-07-10 20:56:30] WARNING in 587725574.py -> main(): Este es un mensaje WARNING
+[2025-07-10 20:56:30] ERROR in 587725574.py -> main():  Este es un mensaje ERROR - ser√° enviado a Telegram
+[2025-07-10 20:56:30] CRITICAL in 587725574.py -> main():  Este es un mensaje CRITICAL - tambi√©n ser√° enviado a Telegram
+[2025-07-10 21:11:12] DEBUG in 587725574.py -> main(): Este es un mensaje DEBUG
+[2025-07-10 21:11:12] DEBUG in 587725574.py -> main(): Este es un mensaje DEBUG
+[2025-07-10 21:11:12] INFO in 587725574.py -> main(): Este es un mensaje INFO
+[2025-07-10 21:11:12] INFO in 587725574.py -> main(): Este es un mensaje INFO
+[2025-07-10 21:11:12] WARNING in 587725574.py -> main(): Este es un mensaje WARNING
+[2025-07-10 21:11:12] WARNING in 587725574.py -> main(): Este es un mensaje WARNING
+[2025-07-10 21:11:12] ERROR in 587725574.py -> main():  Este es un mensaje ERROR - ser√° enviado a Telegram
+[2025-07-10 21:11:12] ERROR in 587725574.py -> main():  Este es un mensaje ERROR - ser√° enviado a Telegram
+[2025-07-10 21:11:14] CRITICAL in 587725574.py -> main():  Este es un mensaje CRITICAL - tambi√©n ser√° enviado a Telegram
+[2025-07-10 21:11:14] CRITICAL in 587725574.py -> main():  Este es un mensaje CRITICAL - tambi√©n ser√° enviado a Telegram
